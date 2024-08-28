@@ -23,7 +23,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ##### Disable unnecessary redirect URIs and web origins (if exist) when running on production mode.
 
-* client id : angular-client
+* client id : sso-mfe1
 * valid redirect url: http://localhost:4200/*
 * web origins:  http://localhost:4200
 * Authentication flow: Standard Flow (Authorization code grant type)
