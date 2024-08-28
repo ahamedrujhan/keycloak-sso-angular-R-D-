@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4201/`. The application will automatically reload if you change any of the source files.
 
 ## Keycloak Integration
 
@@ -23,9 +23,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ##### Disable unnecessary redirect URIs and web origins (if exist) when running on production mode.
 
-* client id : angular-client
-* valid redirect url: http://localhost:4200/*
-* web origins:  http://localhost:4200
+* client id : sso-mfe2
+* valid redirect url: http://localhost:4201/*
+* web origins:  http://localhost:4201
 * Authentication flow: Standard Flow (Authorization code grant type)
 
 
